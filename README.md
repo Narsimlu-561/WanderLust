@@ -9,8 +9,6 @@ Welcome to **Wanderlust**! This project aims to create a user-friendly and engag
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [License](#license)
-
 ---
 
 ## Project Overview
