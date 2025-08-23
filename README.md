@@ -20,6 +20,7 @@ Wanderlust is designed to be a one-stop destination for all things travel. From 
 ## Features
 - Travel discovery with personalized recommendations
 - User stories: share travel experiences with photos and text
+- Maps (Mapbox)
 - this website includes Authentication, Authorization, Error Handling
 - Reviews and ratings for destinations, hotels, and activities
 - Image uploads (handled via Multer / Cloudinary / MongoDB Atlas DataBase)
