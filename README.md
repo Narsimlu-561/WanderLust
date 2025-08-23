@@ -18,12 +18,14 @@ Wanderlust is designed to be a one-stop destination for all things travel. From 
 
 
 ## Features
-- Travel discovery with personalized recommendations
-- User stories: share travel experiences with photos and text
-- Maps (Mapbox)
-- this website includes Authentication, Authorization, Error Handling
-- Reviews and ratings for destinations, hotels, and activities
-- Image uploads (handled via Multer / Cloudinary / MongoDB Atlas DataBase)
+🏕 Create, edit, and delete travel listings
+🧾 Detailed listing pages with images and descriptions
+🔐 Authentication system (register, login, logout)
+👤 Authorization (only owners can edit/delete their listings)
+📸 Cloud image upload (Cloudinary)
+📍 Map integration using Mapbox (optional)
+💬 Flash messages for feedback (success/error)
+⚙ Responsive UI with Bootstrap
 
 ---
 
