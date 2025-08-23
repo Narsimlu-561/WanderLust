@@ -19,13 +19,13 @@ Wanderlust is designed to be a one-stop destination for all things travel. From 
 
 ## Features
 - 🏕 Create, edit, and delete travel listings
-🧾 Detailed listing pages with images and descriptions
-🔐 Authentication system (register, login, logout)
-👤 Authorization (only owners can edit/delete their listings)
-📸 Cloud image upload (Cloudinary)
-📍 Map integration using Mapbox (optional)
-💬 Flash messages for feedback (success/error)
-⚙ Responsive UI with Bootstrap
+- 🧾 Detailed listing pages with images and descriptions
+- 🔐 Authentication system (register, login, logout)
+- 👤 Authorization (only owners can edit/delete their listings)
+- 📸 Cloud image upload (Cloudinary)
+- 📍 Map integration using Mapbox (optional)
+- 💬 Flash messages for feedback (success/error)
+- ⚙ Responsive UI with Bootstrap
 
 ---
 
