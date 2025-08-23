@@ -18,7 +18,7 @@ Wanderlust is designed to be a one-stop destination for all things travel. From 
 
 
 ## Features
-🏕 Create, edit, and delete travel listings
+- 🏕 Create, edit, and delete travel listings
 🧾 Detailed listing pages with images and descriptions
 🔐 Authentication system (register, login, logout)
 👤 Authorization (only owners can edit/delete their listings)
